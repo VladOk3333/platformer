@@ -41,7 +41,7 @@ import javax.swing.JFileChooser;
  *
  * @author Влад
  */
-public class PlayScreen implements Screen {
+public class PlayScreen implements Screen 
 
     //Переменные Tiled map 
     private TmxMapLoader mapLoader;
