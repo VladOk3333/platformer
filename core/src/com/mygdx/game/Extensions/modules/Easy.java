@@ -20,7 +20,7 @@ public class Easy implements Module {
 
     private long _lastActionTime = 0;
     private PlayScreen _ls = null;
-    private MarioClone player;
+    public MarioClone player;
 
 
     @Override
